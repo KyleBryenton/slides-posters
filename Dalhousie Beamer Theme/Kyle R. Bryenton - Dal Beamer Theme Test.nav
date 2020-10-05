@@ -1,0 +1,43 @@
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\beamer@sectionpages {1}{2}}
+\headcommand {\beamer@subsectionpages {1}{2}}
+\headcommand {\sectionentry {1}{First Section}{3}{First Section}{0}}
+\headcommand {\beamer@subsectionpages {3}{3}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{4}{Short First Subsection Name}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{1}{1}{4}{Short First Subsubsection Name}}
+\headcommand {\slideentry {1}{1}{1}{4/4}{Short First Subsection Name}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{1}{2}{5}{Short Second Subsubsection Name}}
+\headcommand {\slideentry {1}{1}{2}{5/5}{Short First Subsection Name}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\beamer@subsectionpages {4}{5}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{6}{Second Subsection}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{2}{1}{6}{Short First Subsubsection Name}}
+\headcommand {\slideentry {1}{2}{1}{6/6}{Second Subsection}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{2}{2}{7}{Short Second Subsubsection Name}}
+\headcommand {\slideentry {1}{2}{2}{7/7}{Second Subsection}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\beamer@sectionpages {3}{7}}
+\headcommand {\beamer@subsectionpages {6}{7}}
+\headcommand {\sectionentry {2}{Second Section}{8}{Second Section}{0}}
+\headcommand {\beamer@subsectionpages {8}{8}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{9}{Short First Subsection Name}}
+\headcommand {\beamer@subsubsectionentry {0}{2}{1}{1}{9}{Short First Subsubsection Name}}
+\headcommand {\slideentry {2}{1}{1}{9/9}{Short First Subsection Name}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\beamer@subsubsectionentry {0}{2}{1}{2}{10}{Short Second Subsubsection Name}}
+\headcommand {\slideentry {2}{1}{2}{10/10}{Short First Subsection Name}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\beamer@sectionpages {8}{10}}
+\headcommand {\beamer@subsectionpages {9}{10}}
+\headcommand {\slideentry {3}{0}{2}{12/12}{}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\beamer@partpages {1}{12}}
+\headcommand {\beamer@subsectionpages {11}{12}}
+\headcommand {\beamer@sectionpages {11}{12}}
+\headcommand {\beamer@documentpages {12}}
+\headcommand {\gdef \inserttotalframenumber {12}}
